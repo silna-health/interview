@@ -1,0 +1,7 @@
+Census data is provided for you at the following url:
+
+https://raw.githubusercontent.com/silna-health/interview/main/census_data.txt
+
+Please find the average of the column called "POPESTIMATE2015"
+
+Python is preferred but not required
